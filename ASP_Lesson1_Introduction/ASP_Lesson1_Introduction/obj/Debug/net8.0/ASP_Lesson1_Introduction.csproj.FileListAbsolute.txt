@@ -1,0 +1,14 @@
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\bin\Debug\net8.0\ASP_Lesson1_Introduction.exe
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\bin\Debug\net8.0\ASP_Lesson1_Introduction.deps.json
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\bin\Debug\net8.0\ASP_Lesson1_Introduction.runtimeconfig.json
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\bin\Debug\net8.0\ASP_Lesson1_Introduction.dll
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\bin\Debug\net8.0\ASP_Lesson1_Introduction.pdb
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\obj\Debug\net8.0\ASP_Lesson1_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\obj\Debug\net8.0\ASP_Lesson1_Introduction.AssemblyInfoInputs.cache
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\obj\Debug\net8.0\ASP_Lesson1_Introduction.AssemblyInfo.cs
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\obj\Debug\net8.0\ASP_Lesson1_Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\obj\Debug\net8.0\ASP_Lesson1_Introduction.dll
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\obj\Debug\net8.0\refint\ASP_Lesson1_Introduction.dll
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\obj\Debug\net8.0\ASP_Lesson1_Introduction.pdb
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\obj\Debug\net8.0\ASP_Lesson1_Introduction.genruntimeconfig.cache
+C:\Users\Musay_zv97\source\repos\ASP_Lesson1_Introduction\ASP_Lesson1_Introduction\obj\Debug\net8.0\ref\ASP_Lesson1_Introduction.dll

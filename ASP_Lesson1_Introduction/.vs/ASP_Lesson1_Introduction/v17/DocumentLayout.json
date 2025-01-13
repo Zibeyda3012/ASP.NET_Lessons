@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Musay_zv97\\source\\repos\\ASP_Lesson1_Introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479F65BA-4637-4E51-9B54-F909E1F2583E}|ASP_Lesson1_Introduction\\ASP_Lesson1_Introduction.csproj|c:\\users\\musay_zv97\\source\\repos\\asp_lesson1_introduction\\asp_lesson1_introduction\\webhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F65BA-4637-4E51-9B54-F909E1F2583E}|ASP_Lesson1_Introduction\\ASP_Lesson1_Introduction.csproj|solutionrelative:asp_lesson1_introduction\\webhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479F65BA-4637-4E51-9B54-F909E1F2583E}|ASP_Lesson1_Introduction\\ASP_Lesson1_Introduction.csproj|c:\\users\\musay_zv97\\source\\repos\\asp_lesson1_introduction\\asp_lesson1_introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F65BA-4637-4E51-9B54-F909E1F2583E}|ASP_Lesson1_Introduction\\ASP_Lesson1_Introduction.csproj|solutionrelative:asp_lesson1_introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Webhost.cs",
+              "DocumentMoniker": "C:\\Users\\Musay_zv97\\source\\repos\\ASP_Lesson1_Introduction\\ASP_Lesson1_Introduction\\Webhost.cs",
+              "RelativeDocumentMoniker": "ASP_Lesson1_Introduction\\Webhost.cs",
+              "ToolTip": "C:\\Users\\Musay_zv97\\source\\repos\\ASP_Lesson1_Introduction\\ASP_Lesson1_Introduction\\Webhost.cs",
+              "RelativeToolTip": "ASP_Lesson1_Introduction\\Webhost.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:05:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Musay_zv97\\source\\repos\\ASP_Lesson1_Introduction\\ASP_Lesson1_Introduction\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_Lesson1_Introduction\\Program.cs",
+              "ToolTip": "C:\\Users\\Musay_zv97\\source\\repos\\ASP_Lesson1_Introduction\\ASP_Lesson1_Introduction\\Program.cs",
+              "RelativeToolTip": "ASP_Lesson1_Introduction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:29:10.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
