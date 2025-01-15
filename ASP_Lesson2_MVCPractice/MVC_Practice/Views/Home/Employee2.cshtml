@@ -1,0 +1,26 @@
+﻿@* @model IEnumerable<MVC_Practice.Entities.Employee> *@
+@model MVC_Practice.Models.EmployeeViewModel
+
+<!DOCTYPE html>
+
+<html>
+    <head></head>
+    <body>
+        @foreach (var item in Model.Emloyees)
+    {
+        <div>
+            <h1>Firstname: @item.Firstname</h1>    
+            <h1>Lastname: @item.Lastname</h1>    
+            <div>
+                <span>User ID: @item.Id</span>
+            </div> 
+
+        </div>
+    }
+
+    @foreach(var item in Model.Cities)
+    {
+        <h2>@item</h2>
+    }
+</body>
+</html>
