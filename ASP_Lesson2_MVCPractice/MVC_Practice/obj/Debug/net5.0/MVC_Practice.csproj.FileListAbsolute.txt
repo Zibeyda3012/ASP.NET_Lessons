@@ -19,7 +19,6 @@ C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Deb
 C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\MVC_Practice.TagHelpers.input.cache
 C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\MVC_Practice.TagHelpers.output.cache
 C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\MVC_Practice.RazorCoreGenerate.cache
-C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\MVC_Practice.RazorTargetAssemblyInfo.cache
 C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\MVC_Practice.RazorTargetAssemblyInfo.cs
 C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\MVC_Practice.Views.pdb
@@ -117,3 +116,5 @@ C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Deb
 C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\Razor\Views\Home\Employee1.cshtml.g.cs
 C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\Razor\Views\Home\Employee2.cshtml.g.cs
+C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\Razor\Views\Employee\Add.cshtml.g.cs
+C:\Users\Musay_zv97\Desktop\ASP.NET\ASP_Lesson2_MVCPractice\MVC_Practice\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
