@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.AspNetCore.Routing;
 using MVC_Practice.Entities;
 using MVC_Practice.Models;
+using MVC_Practice.Services;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -10,9 +11,16 @@ namespace MVC_Practice.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly ICalculate _calculate;
+
+        public HomeController(ICalculate calculate)
+        {
+            _calculate = calculate;
+        }
+
         public string Index()
         {
-            return "Hello from Index Action";
+            return $"Hello from Index Action{_calculate.Calculator(100)}";
         }
 
         public IActionResult Index2()

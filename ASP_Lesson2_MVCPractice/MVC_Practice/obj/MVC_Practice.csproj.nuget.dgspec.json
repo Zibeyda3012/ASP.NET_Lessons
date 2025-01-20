@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\MVC_Practice.csproj": {}
+    "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\MVC_Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\MVC_Practice.csproj": {
+    "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\MVC_Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\MVC_Practice.csproj",
+        "projectUniqueName": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\MVC_Practice.csproj",
         "projectName": "MVC_Practice",
-        "projectPath": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\MVC_Practice.csproj",
-        "packagesPath": "C:\\Users\\Musay_zv97\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\obj\\",
+        "projectPath": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\MVC_Practice.csproj",
+        "packagesPath": "C:\\Users\\Zibeyde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Musay_zv97\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zibeyde\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,26 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
@@ -74,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

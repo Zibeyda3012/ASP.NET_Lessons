@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\",
+  "WorkspaceRootPath": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\musay_zv97\\desktop\\asp.net\\asp_lesson2_mvcpractice\\mvc_practice\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\zibeyde\\desktop\\asp.net_lessons\\asp_lesson2_mvcpractice\\mvc_practice\\services\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\services\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\musay_zv97\\desktop\\asp.net\\asp_lesson2_mvcpractice\\mvc_practice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\zibeyde\\desktop\\asp.net_lessons\\asp_lesson2_mvcpractice\\mvc_practice\\services\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\services\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\musay_zv97\\desktop\\asp.net\\asp_lesson2_mvcpractice\\mvc_practice\\models\\employeeaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\models\\employeeaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\musay_zv97\\desktop\\asp.net\\asp_lesson2_mvcpractice\\mvc_practice\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\musay_zv97\\desktop\\asp.net\\asp_lesson2_mvcpractice\\mvc_practice\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\musay_zv97\\desktop\\asp.net\\asp_lesson2_mvcpractice\\mvc_practice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\zibeyde\\desktop\\asp.net_lessons\\asp_lesson2_mvcpractice\\mvc_practice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\zibeyde\\desktop\\asp.net_lessons\\asp_lesson2_mvcpractice\\mvc_practice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CCE490-56FB-4047-A997-9B4279434050}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MVC_Practice\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MVC_Practice\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T06:50:42.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Views\\Employee\\Add.cshtml",
-              "RelativeDocumentMoniker": "MVC_Practice\\Views\\Employee\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Views\\Employee\\Add.cshtml",
-              "RelativeToolTip": "MVC_Practice\\Views\\Employee\\Add.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T05:34:57.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "MVC_Practice\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "MVC_Practice\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T05:30:47.997Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeAddViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Models\\EmployeeAddViewModel.cs",
-              "RelativeDocumentMoniker": "MVC_Practice\\Models\\EmployeeAddViewModel.cs",
-              "ToolTip": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Models\\EmployeeAddViewModel.cs",
-              "RelativeToolTip": "MVC_Practice\\Models\\EmployeeAddViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Practice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Practice\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T05:29:15.202Z",
+              "WhenOpened": "2025-01-20T08:04:29.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "MVC_Practice\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Entities\\Employee.cs",
-              "RelativeToolTip": "MVC_Practice\\Entities\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Startup.cs",
+              "RelativeDocumentMoniker": "MVC_Practice\\Startup.cs",
+              "ToolTip": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Startup.cs",
+              "RelativeToolTip": "MVC_Practice\\Startup.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T06:14:32.167Z",
+              "WhenOpened": "2025-01-20T08:01:30.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVC_Practice\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Musay_zv97\\Desktop\\ASP.NET\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVC_Practice\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAA0wJwAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Services\\Calculate.cs",
+              "RelativeDocumentMoniker": "MVC_Practice\\Services\\Calculate.cs",
+              "ToolTip": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Services\\Calculate.cs",
+              "RelativeToolTip": "MVC_Practice\\Services\\Calculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T05:38:02.954Z",
+              "WhenOpened": "2025-01-20T08:00:54.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICalculate.cs",
+              "DocumentMoniker": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Services\\ICalculate.cs",
+              "RelativeDocumentMoniker": "MVC_Practice\\Services\\ICalculate.cs",
+              "ToolTip": "C:\\Users\\Zibeyde\\Desktop\\ASP.NET_Lessons\\ASP_Lesson2_MVCPractice\\MVC_Practice\\Services\\ICalculate.cs",
+              "RelativeToolTip": "MVC_Practice\\Services\\ICalculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:00:05.483Z",
               "EditorCaption": ""
             }
           ]
